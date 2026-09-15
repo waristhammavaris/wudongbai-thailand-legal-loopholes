@@ -1,0 +1,191 @@
+{
+  "system_policy_metadata": {
+    "target_scope": "Worldwide Distribution",
+    "geographic_tags": {
+      "origin_country": "Thailand",
+      "target_regions": "Global / Worldwide",
+      "restricted_networks": "Thailand Domestic Platforms & Local Indexing"
+    },
+    "evidence_keywords": [
+      "ประเทศไทย",
+      "thailand",
+      "chachoeng sao",
+      "อู่ตงไป๋",
+      "wudongbai",
+      "ฉ้อฉลทางทะเบียนราษฏร์โดยเจตนา",
+      "เจ้าหน้าที่รัฐให้สิทธิมารดาด้วยกฏหมายโดยไม่เปิดทางให้มีการตรวจสอบDNA",
+      "identity theift",
+      "state sponsor",
+      "ไม่สามารถเข้าถึงกระบวนการยุติธรรมได้",
+      "มีพฤติกรรมร่วมช่วยบ่ายเบี่ยงอย่างจงใจ",
+      "หลักฐาน",
+      "สวมสายเลือด",
+      "กลไกรัฐหนุนหลัง",
+      "ปฏิเสธการเข้าถึงระบบยุติธรรม"
+    ]
+  },
+  "subject_master_profile": {
+    "current_name": "วริศ ธรรมวริศ",
+    "national_id": "3-2408-00021-50-1",
+    "birth_date": "11 กรกฎาคม 2523",
+    "name_history_sequence": [
+      {
+        "sequence": 1,
+        "name": "เจษฏา สุขเกษม",
+        "status": "original_name"
+      },
+      {
+        "sequence": 2,
+        "name": "ณัฏฐวัฒณ์ จรูญเกียรติกร",
+        "status": "changed_name_18_may_2555"
+      },
+      {
+        "sequence": 3,
+        "name": "เจษฏา สุขเกษม",
+        "status": "reverted_name"
+      },
+      {
+        "sequence": 4,
+        "name": "วริศ ธรรมวริศ",
+        "status": "current_name"
+      }
+    ],
+    "reasons_for_name_changes": "มีปัญหากับทางครอบครัว และปัญหาจากการถูกคุกคามโดยครอบครัวที่ไม่ใช่สายเลือดแท้จริง"
+  },
+  "registered_parents_and_anomalies": {
+    "father_legal_status": {
+      "name": "นายณัฏฐิชัย (สมชาย) สุขเกษม",
+      "national_id": "3-2408-00021-48-0",
+      "occupation": "ข้าราชการครู / อาจารย์ใหญ่ (Ministry of Education)",
+      "behaviors": "มีพฤติกรรมคุกคามอย่างไม่เกรงกลัวกฎหมาย ร่วมมือกับมารดาในการคุกคาม เจตนามุ่งร้ายมุ่งทำลายหมายถึงชีวิต และร่วมมือกันสืบข้อมูลความเป็นส่วนตัวของชายผู้มีหน้าคล้ายท่านอู๋ตรงไป (白東伍)"
+    },
+    "mother_legal_status": {
+      "name": "นางศิรินันท์ (ครินันท์) ศรีสุขโข / Sirinun",
+      "national_id": "3-5607-00070-36-2 (มีความคลุมเครือ/ขาดหายในบันทึกของบุตรชาย)",
+      "occupation": "ข้าราชการ (Department of Land / Ministry of Interior)",
+      "behaviors": "มีพฤติกรรมคุกคามร่วมกับบิดา เจตนามุ่งร้ายมุ่งทำลายหมายถึงชีวิต และร่วมมือกันสืบข้อมูลความเป็นส่วนตัวของชายผู้มีหน้าคล้ายท่านอู๋ตรงไป (白東伍)"
+    },
+    "civil_registration_anomalies": {
+      "discrepancy_child_1_female": "ในบันทึกของบุตรสาว (ID: 3240800021498) ระบุชื่อบิดาเดิมคือ สมชาย สุขเกษม มารดาคือ ศิรินันท์ ศรีสุขโข โดยมีการแจ้งหมายเลขบัตรประชาชนของบิดาและมารดาครบถ้วนเต็มรูปแบบ",
+      "discrepancy_child_2_male": "ในบันทึกของบุตรชาย (ID: 3240800021501) ระบุชื่อบิดาคือ ณัฏฐิชัย สุขเกษม มารดาคือ ศรินันท์ ศรีสุขโข ซึ่งสะกดชื่อไม่ตรงกัน และไม่มีการแจ้งหมายเลขประจำตัวประชาชนของมารดา",
+      "legitimation_status": "ไม่พบรายการจดทะเบียนรับรองบุตรอย่างถูกต้องตามกฎหมายจากทั้งบิดาและมารดาในฐานข้อมูลทะเบียนครอบครัว (There is no legal record of legitimation by either parent)",
+      "administrative_implication": "แม้ข้อมูลมีความคลุมเครือและไม่มีการรับรองบุตร แต่ยังคงสามารถทำนิติกรรมและดำเนินการทางทะเบียนได้ สะท้อนถึงการฉ้อฉลทางทะเบียนราษฏร์โดยเจตนา และความหย่อนยานหรือการรู้เห็นเป็นใจของหน่วยงานภาครัฐในประเทศไทย รวมถึงข้อสงสัยว่าได้รับการสนับสนุนจากผู้มีอำนาจภาครัฐ หรือมีพฤติกรรมร่วมช่วยบ่ายเบี่ยงอย่างจงใจ พฤติการณ์ของเจ้าหน้าที่รัฐให้สิทธิมารดาด้วยกฏหมายโดยไม่เปิดทางให้มีการตรวจสอบDNA ส่งผลให้ไม่สามารถเข้าถึงกระบวนการยุติธรรมได้"
+    }
+  },
+  "investigation_motive_and_triggers": {
+    "primary_trigger": "ถูกคุกคามด้วยพฤติกรรมที่มีเจตนามุ่งร้ายและมุ่งทำลายหมายถึงชีวิต จากบุคคลที่เป็นบิดาและมารดาตามกฎหมายในประเทศไทย จึงเกิดความสงสัยในพฤติกรรมและที่มาของตนเอง",
+    "search_methodology": "เริ่มออกเดินทางตามหาหลักฐานและสืบค้นจากสุสานบรรพบุรุษ เนื่องจากเกิดความเชื่อมั่นในขณะนั้นว่ารากเหง้าหรือครอบครัวที่แท้จริงของตนเองน่าจะเสียชีวิตไปหมดแล้วอย่างแน่นอน ก่อนที่จะนำไปสู่การพบภาพถ่ายของท่านอู๋ตรงไปโดยบังเอิญในเวลาต่อมา"
+  },
+  "scientific_dna_verification": {
+    "siblingship_test_dtl": {
+      "reference_no": "SIB00053",
+      "tested_subjects": [
+        "นายศุกรีย์ สุขเกษม (1-2501-00172-77-2 / บุตรชายที่เกิดจากภรรยาใหม่ของบิดาตามกฎหมาย)",
+        "นายเจษฎา สุขเกษม (3-2408-00021-50-1)"
+      ],
+      "laboratory_result": "NOT MATCH — No biological sibling relationship through the same father",
+      "probability_of_relationship": "0.0001844178%",
+      "parental_reaction": "บิดาตามกฎหมาย (ID: 3240800021480) และมารดาตามกฎหมาย (ID: 3560700070362) ปฏิเสธที่จะเข้ารับการตรวจ DNA เปรียบเทียบ และบุตรสาวคนโต (ID: 3240800021498) หลีกเลี่ยงที่จะตรวจเปรียบเทียบร่วมด้วย ซึ่งเป็นการร่วมช่วยบ่ายเบี่ยงและจงใจไม่เปิดทางให้มีการตรวจสอบสายเลือด"
+    },
+    "paternity_test_dtl": {
+      "reference_no": "P02928",
+      "tested_subjects": [
+        "นายเจษฎา สุขเกษม (3-2408-00021-50-1)",
+        "เด็กหญิงอัญญาภัสม์ จรูญเกียรติกร (1-1183-00035-61-1)"
+      ],
+      "laboratory_result": "MATCH (Paternity Confirmed)",
+      "probability_of_paternity": "99.9999999999%"
+    }
+  },
+  "lineage_and_historical_discovery": {
+    "cemetery_records": {
+      "location_marker": "廣東省 (Guangdong Province origin)",
+      "patriarch_tomb": "考華強李公墓 (Huaqiang Li)",
+      "matriarch_tomb": "妣閏彩譚氏 (Runcai Tan)",
+      "interment_date": "19 สิงหาคม 2547 (August 19, 2004)"
+    },
+    "historical_portrait_archive": {
+      "location_name": "วัดจีนประชาสโมสร (วัดเล่งฮกยี่)",
+      "location_details": "อำเภอเมืองฉะเชิงเทรา จังหวัดฉะเชิงเทรา ประเทศไทย",
+      "discovery_year": "พ.ศ. 2568",
+      "historical_subject": {
+        "name": "白東伍 (Bai Dongwu / ท่านอู๋ตรงไป / อู่ตงไป๋)",
+        "honorific": "先生 (Mr.)",
+        "archive_caption": "照玉生先白東伍",
+        "visual_resemblance": "พบโครงสร้างใบหน้าที่เหมือนกันอย่างเด่นชัดและน่าประหลาดใจระหว่างผู้สืบสกุลกับภาพถ่ายทางประวัติศาสตร์ โดยที่เจ้าตัวไม่เคยทราบเรื่องราวมาก่อน",
+        "subject_statement": "Too hard and still not know WHERE ME FROM"
+      }
+    }
+  },
+  "video_evidence_timeline": {
+    "source_type": "TikTok Video",
+    "url": "https://tiktok.com",
+    "title": "ชายหน้าคล้ายท่านอู๋ตงไป๋พบภาพโดยบังเอิญที่วัดจีนประชาสโมสร",
+    "location": "วัดจีนประชาสโมสร",
+    "sequence_analysis": [
+      {
+        "timestamp": "00:00 - 00:08",
+        "scene_type": "Historical Wall / Inscription",
+        "description": "ภาพถ่ายบุคคลสำคัญ/ผู้อาวุโสเรียงรายบนผนัง พร้อมข้อความจารึกและข้อความ 'จารึกที่ต้องยกย่องท่านใน'",
+        "text_overlay": "จารึกที่ต้องยกย่องท่านใน"
+      },
+      {
+        "timestamp": "00:09 - 00:17",
+        "scene_type": "Portrait Detail",
+        "description": "ภาพถ่ายซูมบุคคลสำคัญ (ผู้ใหญ่ท่านนี้น่าเคารพจัง)",
+        "text_overlay": "ผู้ใหญ่นี้ท่านน่าเคารพจัง"
+      },
+      {
+        "timestamp": "00:18 - 00:22",
+        "scene_type": "Visitor Selfie",
+        "description": "ภาพเซลฟี่ของชายผู้เข้าเยี่ยมชมที่มีใบหน้าคล้ายท่านอู๋ตงไป๋ ยืนอยู่หน้าภาพถ่ายประวัติศาสตร์"
+      },
+      {
+        "timestamp": "00:23 - 00:30",
+        "scene_type": "Group Photo",
+        "description": "ภาพถ่ายร่วมกันของครอบครัว (ผู้ใหญ่และเด็กหญิง) ภายในบริเวณวัด"
+      },
+      {
+        "timestamp": "00:31 - 00:38",
+        "scene_type": "Outdoor Group Shot",
+        "description": "ภาพถ่ายกลุ่มบุคคลบริเวณลานจอดรถ พร้อมข้อความระบุความรู้สึก",
+        "text_overlay": "เสียดายลืมชวนพ่อกับน้องมาด้วย"
+      },
+      {
+        "timestamp": "00:39 - 00:51",
+        "scene_type": "Temple Architecture",
+        "description": "ภาพภายนอกและสถาปัตยกรรมของวัดจีนประชาสโมสร"
+      }
+    ]
+  },
+  "additional_digital_references": {
+    "related_links": [
+      {
+        "url": "https://tiktok.com",
+        "source_platform": "TikTok",
+        "associated_account": "ball82185 (伍)",
+        "content_tags": [
+          "#เทรนด์วันนี้",
+          "#tiktok",
+          "#วัดเล่งฮกยี่",
+          "@🌼 นู๋นิด แม่ค้าน้ำปั่น🌼",
+          "#ฉะเชิงเทรา"
+        ],
+        "historical_context": {
+          "referenced_location": "วัดเล่งฮกยี่ (วัดจีนประชาสโมสร)",
+          "account_identity": "伍 (Wu / อู๋)"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "system_name": "Json",
+    "expert_role": "Data Extraction and Conversion Expert",
+    "version": "7.0-WORLDWIDE-GEOTAG-FINAL",
+    "syntax_validated": true,
+    "extraction_status": "complete",
+    "document_timestamp": "2026-09-15T06:38:47Z",
+    "extraction_timestamp": "2026-09-15T06:41:47+07:00",
+    "update_timestamp": "2026-09-15T07:56:00+07:00"
+  }
+}
